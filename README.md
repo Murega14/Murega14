@@ -1,13 +1,16 @@
-### Hi there 👋Bravin Murega here
+### Hi there 👋, Bravin Murega here
 
 <img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
 - 🌱 I’m currently learning Data Analysis, Powerapps and Machine Learning
-- 💬 Ask me about python
+- 💬 Ask me about Python
 - 📫 How to reach me:tedmurega@gmail.com
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/muregzzzz" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muregzzzz" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/bravin-mwangi-murega-48955a25a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bravin Mwangi Murega" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
