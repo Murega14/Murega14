@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murega14&label=Profile%20views&color=0e75b6&style=flat" alt="murega14" /> </p>
 
-- 🌱 I’m currently learning Data Analysis, Powerapps and Machine Learning
-- 💬 Roses are Red, Violets are Blue, Anything concerning data analytics and visualization I can do
+- 🌱 I’m currently learning Data Analysis,  Machine Learning and Frontend Development
+- 💬 Becoming a better developer one day at a time
 - 📫 How to reach me:tedmurega@gmail.com
 
 <h3 align="left">Connect with me:</h3>
