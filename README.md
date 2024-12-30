@@ -50,11 +50,12 @@
   </a>
       </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murega14&" alt="murega14" /></p>
 </br>
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murega14&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=murega14&count_private=true&show_icons=true&theme=buefy" alt="murega14" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murega14&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=buefy" alt="murega14" height="165" />
+ </p>
 </br>
