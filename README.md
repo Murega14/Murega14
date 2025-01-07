@@ -22,18 +22,23 @@
 <details>
 <summary>Frontend</summary>
 
-- React.js with Tailwind CSS
-- HTML5 & Modern CSS
+- React.js
+- HTML5
+- Javascript
+- CSS
+- Tailwind CSS
 - Responsive Web Design
 </details>
 
 <details>
 <summary>Backend</summary>
 
-- Python (Flask)
+- Python
 - SQLAlchemy
 - SQLite
-- RESTful APIs
+- Postgres
+- Supabase
+- Firebase
 </details>
 
 <details>
@@ -42,7 +47,6 @@
 - Git & Version Control
 - Linux
 - Postman
-- Kotlin
 </details>
 
 ### 🔥 GitHub Stats
