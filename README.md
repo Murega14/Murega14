@@ -52,7 +52,7 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murega14&theme=dark" alt="GitHub Streak Stats" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=murega14)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
