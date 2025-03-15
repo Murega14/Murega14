@@ -52,7 +52,7 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murega14&layout=compact&theme=vision-friendly-dark&hide=jupyter-notebook" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murega14&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
 
