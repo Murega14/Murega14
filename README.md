@@ -15,7 +15,7 @@
 - 🚀 I'm passionate about creating efficient, scalable web applications
 - 💡 Currently exploring new technologies and best practices in web development
 - 🌱 "Becoming a better developer one line of code at a time"
-- 🎯 Goals: Contributing to open source projects and building impactful applications
+- 🎯 Goals: Contributing to open source projects and building impactful systems
 
 ### 🛠️ Tech Stack
 
